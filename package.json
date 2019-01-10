@@ -1,0 +1,18 @@
+{
+  "name": "learning-threejs",
+  "version": "1.0.0",
+  "description": "Code from https://github.com/josdirksen/learning-threejs",
+  "main": "''",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "''"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^10.1.1"
+  }
+}
